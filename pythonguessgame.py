@@ -4,8 +4,9 @@
  lower than computer guess. At the end of each game ask from the user
  whether he wants to play again. Every time the user guess is correct he will
  get a point, otherwise computer will get point. """
+ashiiii=123
 
-
+ash=8
 
 import random
 def intro():
